@@ -39,18 +39,18 @@ ul.page-numbers { padding: 30px 0 0; }
 
 /* Center meta items on Blog page and archive pages */
 .blog-entry.post ul.meta {
-   justify-content: center;
+   justify-content: center !important;
 }
 .has-social #site-navigation-wrap {
-	right: 0;
-	top: 1.5vw;
+	right: 0 !important;
+	top: 1.5vw !important;
 }
 .oceanwp-social-menu.simple-social {
-	top:1.5vw;
+	top:1.5vw !important;
 }
 .mobile-menu {
-	margin-top:1.5vw;
+	margin-top:1.5vw !important;
 }
 h1, h2, h3, h4, a {
-	font-family: "Bungee", Sans-serif;
+	font-family: "Bungee", Sans-serif !important;
 }

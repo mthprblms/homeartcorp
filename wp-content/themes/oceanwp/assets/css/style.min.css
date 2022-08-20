@@ -51,6 +51,6 @@ ul.page-numbers { padding: 30px 0 0; }
 .mobile-menu {
 	margin-top:1.5vw !important;
 }
-h1, h2, h3, h4, a {
+h1, h2, h3, h4, a, .elementor-465 .elementor-element.elementor-element-5c316fb .elementor-heading-title {
 	font-family: "Bungee", Sans-serif !important;
 }
